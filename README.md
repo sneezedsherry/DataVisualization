@@ -1,7 +1,7 @@
 # DataVisualization Check-list
-This file includes all the useful plot /n
-*1 barplot \n
-*2 boxplot \n
-*3 Stacked_barplot \n
-*4 Time_Series_plot \n
+This file includes all the useful plot <br>
+*1 barplot
+*2 boxplot
+*3 Stacked_barplot
+*4 Time_Series_plot
 *5 Tree_map_categoricaldata
