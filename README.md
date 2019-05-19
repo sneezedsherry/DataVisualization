@@ -1,5 +1,5 @@
 # DataVisualization Check-list
-This file includes all the useful plot \n
+This file includes all the useful plot /n
 *1 barplot \n
 *2 boxplot \n
 *3 Stacked_barplot \n
