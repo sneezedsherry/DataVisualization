@@ -1,4 +1,4 @@
-# DataVisualization Check-list
+# DataVisualization
 This file includes all the useful plot <br>
 1. barplot
 2. boxplot
